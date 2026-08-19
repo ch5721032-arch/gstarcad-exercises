@@ -19,7 +19,7 @@ Free practice drawings and step-by-step exercises for learning CAD drafting with
 
 1. Get [GstarCAD free trial](https://www.gstarcad.net/download)
 2. Open an exercise file and try to reproduce it from the instructions
-3. Compare with the reference solution and check the [tutorials](https://www.gstarcad.net/tutorials/) when stuck
+3. Compare with the reference solution and check the [tutorials](https://www.gstarcad.net/cad/) when stuck
 
 ## Community
 
